@@ -1,7 +1,7 @@
 const { check, runTest } = require("../../test-api");
 
-function getLength() {
-  // return the length of the passed string
+function getLength(str) {
+  return str.length;// return the length of the passed string
 }
 
 runTest("getLength() returns the correct string length", function () {

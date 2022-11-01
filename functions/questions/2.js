@@ -7,8 +7,10 @@ function sum(a, b, c) {
   return total;
 }
 
-// How many parameters are there in this function declaration?
-// What is the return value ?
+// How many parameters are there in this function declaration? 3
+// What is the return value ? 124
 
 const output1 = sum(100, 20, 4);
-// What are the arguments for this function call / invocation?
+// What are the arguments for this function call / invocation? 
+100, 20, 4
+saves into output 1
