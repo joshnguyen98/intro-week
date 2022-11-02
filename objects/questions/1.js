@@ -4,3 +4,5 @@ myDetails();
 
 // What will happen when this file is executed with Node?
 // What is the problem with this code?
+
+mydetails not a function - type error

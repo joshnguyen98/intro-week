@@ -26,7 +26,7 @@ b) `1`
 
 c) `3`
 
-d) `4`
+d) `4` +
 
 ---
 
@@ -43,7 +43,7 @@ console.log(letters[0]);
 
 Which order will the following `console.log`s appear?
 
-a) `c`, `b`, `a`
+a) `c`, `b`, `a` +
 
 b) `a`, `c`, `b`
 
@@ -66,9 +66,9 @@ a) `2`
 
 b) `3`
 
-c) `4`
+c) `4` +
 
-d) Won't work - will throw a `SyntaxError`
+d) Won't work - will throw a `SyntaxError` 
 
 ---
 
@@ -91,7 +91,7 @@ b) It will throw an error
 
 c) `"C"` will be printed to the `console`
 
-d) `"a`" will be printed to the `console`
+d) `"a`" will be printed to the `console` +
 
 ---
 
@@ -108,7 +108,7 @@ What will `arr.length` evaluate to?
 
 a) `0`
 
-b) `101`
+b) `101` +
 
 c) `100`
 
@@ -125,7 +125,7 @@ const emptyArray = [];
 console.log(emptyArray[0]);
 ```
 
-a) Will print `undefined`
+a) Will print `undefined` +
 
 b) Will print `0`
 
@@ -140,12 +140,12 @@ const emptyArray = [];
 console.log(emptyArray[0][1]);
 ```
 
-a) Will print `undefined`
+a) Will print `undefined` 
 
 b) Will print `0`
 
 c) Will print `[]`
 
-d) Will throw an `Error`
+d) Will throw an `Error` +
 
 ---

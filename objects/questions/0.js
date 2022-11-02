@@ -11,3 +11,4 @@ console.log(anatPhoneNo);
 
 // What will happen when this file is executed with Node?
 // What is the problem with this code?
+phoneBook[name];
